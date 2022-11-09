@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\bin\Debug\net6.0\Year3ConsoleApp.exe
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\bin\Debug\net6.0\Year3ConsoleApp.deps.json
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\bin\Debug\net6.0\Year3ConsoleApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\bin\Debug\net6.0\Year3ConsoleApp.dll
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\bin\Debug\net6.0\Year3ConsoleApp.pdb
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\obj\Debug\net6.0\Year3ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\obj\Debug\net6.0\Year3ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\obj\Debug\net6.0\Year3ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\obj\Debug\net6.0\Year3ConsoleApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\obj\Debug\net6.0\Year3ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\obj\Debug\net6.0\Year3ConsoleApp.dll
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\obj\Debug\net6.0\refint\Year3ConsoleApp.dll
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\obj\Debug\net6.0\Year3ConsoleApp.pdb
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\obj\Debug\net6.0\Year3ConsoleApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\ConsoleAppYear3-main\Year3ConsoleApp\obj\Debug\net6.0\ref\Year3ConsoleApp.dll
