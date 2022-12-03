@@ -1,10 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using MainApp.Testing;
-using MainApp.Basics;
+
 using MainApp.Week2;
 using MainApp.Week3;
+using MainApp.Week4;
+using static MainApp.Week4.PartialClass;
+using static MainApp.Week4.PolymorphismClass;
+using static MainApp.Week4.AccessModifiersUsage;
 
+//Week3
+
+/*
 Console.WriteLine("------ PRIME NUMBER -------");
 Prime.CheckPrime();
 Console.WriteLine("------ PRIME NUMBER -------\n");
@@ -20,6 +27,30 @@ Console.WriteLine("------ SWAP -------\n");
 Console.WriteLine("------ARRAY SEARCH -------");
 Search.CheckElement();
 Console.WriteLine("------ ARRAY SEARCH -------\n");
+
+Console.WriteLine("---- Search Elemeny in an Array ----");
+CheckArray.searchArrayElement();
+Console.WriteLine("---- Search Elemeny in an Array ----"); 
+*/
+
+
+// Week 4
+
+// Abstraction
+CallingAge.mainMethod();
+
+// Polymorphism
+MainClass.mainMethod();
+
+//Partial Class
+MainPartial.mainPartialMethod();
+
+// Access Modifiers
+mainMethodAccessModifiers();
+
+
+
+//week2
 
 /*
 

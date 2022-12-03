@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\ConsoleAppYear3-main\\Year3ConsoleApp\\MainApp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\ApplicationDev-Workshop\\Year3ConsoleApp\\MainApp.csproj",
       "projectName": "MainApp",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\ConsoleAppYear3-main\\Year3ConsoleApp\\MainApp.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\ApplicationDev-Workshop\\Year3ConsoleApp\\MainApp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\ConsoleAppYear3-main\\Year3ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\ApplicationDev-Workshop\\Year3ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
