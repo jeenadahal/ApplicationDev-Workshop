@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Year3ConsoleApp",
-    "\\Year3ConsoleApp\\Week2"
+    "\\MainApp\\Calculator"
   ],
-  "SelectedNode": "\\Year3ConsoleApp\\Week2\\ControlStatement.cs",
+  "SelectedNode": "\\MainApp.sln",
   "PreviewInSolutionExplorer": false
 }
