@@ -13,8 +13,8 @@ namespace MainApp2.Week5
         {
             List<EmployeeModel> list = new List<EmployeeModel>
             {
-                new EmployeeModel{ FirstName = "Jeena", LastName = "Dahal", Designation = "Business Analyst", PhoneNumber = "123456", Email = "ashma@gmail.com", Address="Kathmandu", HiredDate = DateTime.Now, Salary = 50000, IsManager = true},
-                new EmployeeModel{ FirstName = "Anusha", LastName = "Maharjan", Designation = "Branch Manager", PhoneNumber = "13456", Email = "anusha@gmail.com", Address="Pokhara", HiredDate = DateTime.Now, Salary = 55000, IsManager = true},
+                new EmployeeModel{ FirstName = "Jeena", LastName = "Dahal", Designation = "Business Manager", PhoneNumber = "3927102", Email = "jinadahal@gmail.com", Address="Kathmandu", HiredDate = DateTime.Now, Salary = 80000, IsManager = true},
+                new EmployeeModel{ FirstName = "Jiggy", LastName = "Yelem", Designation = "Branch Manager", PhoneNumber = "13456", Email = "jiggy@gmail.com", Address="Pokhara", HiredDate = DateTime.Now, Salary = 55000, IsManager = true},
                 new EmployeeModel{ FirstName = "Jack", LastName = "Connor", Designation = "Sales Person", PhoneNumber = "125356", Email = "jack@gmail.com", Address="Kathmandu", HiredDate = DateTime.Now, Salary = 20000, IsManager = false},
                 new EmployeeModel{ FirstName = "Charlie", LastName = "William", Designation = "Sales Person", PhoneNumber = "132156", Email = "charlie@gmail.com", Address="Kathmandu", HiredDate = DateTime.Now, Salary = 20000, IsManager = false},
                 new EmployeeModel{ FirstName = "Jennifer", LastName = "Lopez", Designation = "Sales Person", PhoneNumber = "094456", Email = "jennifer@gmail.com", Address="Kathmandu", HiredDate = DateTime.Now, Salary = 20000, IsManager = false},
